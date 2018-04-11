@@ -1,0 +1,21 @@
+.container{
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  >div {
+      width: 100px;
+      height: 100px;
+      text-align: center;
+
+  }
+}
+
+h2{
+    padding: 20px;
+}
+input{
+    padding: 20px;
+}
+button{
+    padding-top: 30px;
+}
